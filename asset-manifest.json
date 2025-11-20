@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unified-care/static/css/main.371df6d0.css",
+    "main.js": "/unified-care/static/js/main.e5ced487.js",
+    "index.html": "/unified-care/index.html",
+    "main.371df6d0.css.map": "/unified-care/static/css/main.371df6d0.css.map",
+    "main.e5ced487.js.map": "/unified-care/static/js/main.e5ced487.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.371df6d0.css",
+    "static/js/main.e5ced487.js"
+  ]
+}
