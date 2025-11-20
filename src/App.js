@@ -62,7 +62,7 @@ const Navbar = ({ userType, setUserType, setView, notificationCount, user, onSig
             <div className="flex items-center space-x-4">
 
               {/* View Toggle (Demo Purposes) */}
-              <div className="hidden md:flex bg-slate-100 p-1 rounded-lg">
+              <div className="flex bg-slate-100 p-1 rounded-lg">
                 <button
                     onClick={() => setUserType('customer')}
                     className={`px-3 py-1.5 rounded-md text-xs font-semibold transition-all ${
