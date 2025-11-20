@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/unified-care/static/css/main.371df6d0.css",
-    "main.js": "/unified-care/static/js/main.e5ced487.js",
+    "main.css": "/unified-care/static/css/main.d3abdb5e.css",
+    "main.js": "/unified-care/static/js/main.2341c03d.js",
     "index.html": "/unified-care/index.html",
-    "main.371df6d0.css.map": "/unified-care/static/css/main.371df6d0.css.map",
-    "main.e5ced487.js.map": "/unified-care/static/js/main.e5ced487.js.map"
+    "main.d3abdb5e.css.map": "/unified-care/static/css/main.d3abdb5e.css.map",
+    "main.2341c03d.js.map": "/unified-care/static/js/main.2341c03d.js.map"
   },
   "entrypoints": [
-    "static/css/main.371df6d0.css",
-    "static/js/main.e5ced487.js"
+    "static/css/main.d3abdb5e.css",
+    "static/js/main.2341c03d.js"
   ]
 }
